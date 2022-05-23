@@ -1,6 +1,6 @@
 # **DIPLOMATURA 2022**
 
-# **Mentoria Tumoresferas**
+# **Mentoría Tumoresferas**
 
 Análisis y Visualización de Datos 2022, en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
 
