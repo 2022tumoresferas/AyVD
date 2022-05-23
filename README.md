@@ -17,7 +17,7 @@ Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física
    - [x] Guillermo Robiglio  
    - [x] Daniel Rubio
    
-En este repositorio se encuentran las entregas con los resultados correspondientes a la asignatura de _Análisis y visualización de datos_.
+En este repositorio se encuentran el trabajo realizado correspondiente a la temática: _Análisis y visualización de datos_.
 
 ## **Requerimientos - Librerías necesarias**:
    - [x] drive
