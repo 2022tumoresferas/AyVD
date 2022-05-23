@@ -1,8 +1,9 @@
 # **DIPLOMATURA 2022**
+Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física y Computación
+Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones
 
-# **Mentoría Tumoresferas**
 
-Análisis y Visualización de Datos 2022, en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
+# **Mentoría Tumoresferas año 2022**
 
 # ANÁLISIS Y VISUALIZACIÓN DE DATOS
 
