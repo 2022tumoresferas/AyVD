@@ -4,7 +4,7 @@ Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física
 Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones
 
 
-# **Mentoría Tumoresferas año 2022**
+# **MENTORÍA TUMORESFERAS AÑO 2022**
 
 # ANÁLISIS Y VISUALIZACIÓN DE DATOS
 
